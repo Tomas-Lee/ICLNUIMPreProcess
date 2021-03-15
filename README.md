@@ -1,1 +1,3 @@
 # ICLNUIMPreProcess
+
+包含对ICLNUIM数据集living room数据集轨迹处理的两个脚本，一个是对TUM形式表示的轨迹，将左手系转为右手系，另一个是对KITTI形式表示的轨迹，将左手系转为右手系
